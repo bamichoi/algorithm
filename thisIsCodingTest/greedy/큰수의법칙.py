@@ -56,3 +56,7 @@ result += count * first
 result += m % (k +1)
 
 print(result)
+
+
+
+    
